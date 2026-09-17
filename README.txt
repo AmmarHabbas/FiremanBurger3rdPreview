@@ -1,4 +1,4 @@
-Feastria — Offline Local Website
+FIREMAN BURGER — Offline Local Website
 ================================
 
 Open index.html directly in a browser. All website assets, stylesheets, fonts, JavaScript libraries,
